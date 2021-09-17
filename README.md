@@ -7,11 +7,11 @@ If you experiencing difficulty to watch or play the Youtube video in Firefox und
 ```
 sudo apt install ffmpeg
 ```
-2. Then Ubuntu Restricted Extras with following command.
+2. Then install Ubuntu Restricted Extras with following command.
 ```
 sudo apt install ubuntu-restricted-extras
 ```
-3. Finally install the libavcodec-extra with following command.
+3. Finally, install the libavcodec-extra with following command.
 ```
 sudo apt install libavcodec-extra
 ````
